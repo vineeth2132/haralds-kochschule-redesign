@@ -529,7 +529,6 @@ textarea {
   .nav-links {
     position: fixed;
     top: 82px;
-    right: -100%;
     width: 100%;
     height: calc(100vh - 82px);
     background: var(--bg);
@@ -539,9 +538,6 @@ textarea {
     transition: 0.35s ease;
   }
 
-  .nav-links.active {
-    right: 0;
-  }
 
 .dropdown {
   padding: 0;
@@ -1102,3 +1098,93 @@ textarea {
   white-space: nowrap;
   padding: 0.85rem 1.35rem;
 }
+
+@media (max-width: 1000px) {
+  .navbar {
+    height: 76px;
+    padding: 0 5%;
+  }
+
+  .logo {
+    font-size: 1.75rem;
+    line-height: 1;
+    position: relative;
+    z-index: 120;
+  }
+
+  .menu-btn {
+    display: block;
+    position: relative;
+    z-index: 130;
+  }
+
+  .nav-links {
+    position: fixed;
+    top: 76px;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: calc(100vh - 76px);
+    background: #0f0e0c;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1.4rem;
+    padding: 2rem 6% 4rem;
+    overflow-y: auto;
+    transform: translateX(100%);
+    transition: transform 0.35s ease;
+  }
+
+  .nav-links.active {
+    transform: translateX(0);
+  }
+
+  .nav-links a,
+  .dropdown-title {
+    font-size: 1.15rem;
+    line-height: 1.25;
+  }
+
+  .dropdown {
+    width: 100%;
+    padding: 0;
+  }
+
+  .dropdown-title {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .dropdown-menu {
+    position: static;
+    width: 100%;
+    opacity: 1;
+    visibility: visible;
+    transform: none;
+    pointer-events: auto;
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    border: none;
+    padding: 0.8rem 0 0 1.5rem;
+    gap: 1rem;
+  }
+
+  .dropdown-menu a {
+    font-size: 1rem;
+    line-height: 1.3;
+    padding: 0;
+    color: var(--muted);
+  }
+
+  .language-btn {
+    margin-top: 0.5rem;
+  }
+
+  .nav-cta {
+    margin-top: 0.5rem;
+    padding: 0.9rem 1.6rem;
+  }
+}
+
