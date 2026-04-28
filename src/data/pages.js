@@ -1,0 +1,1002 @@
+export const pageData = [
+  {
+    slug: "/corporate-events/team-building",
+    group: "corporate",
+    en: {
+      title: "Corporate Events & Team Building Cooking Events in Munich",
+      subtitle:
+        "Plan a memorable corporate cooking event in Munich for team building, company celebrations, client evenings, workshops, Christmas parties and business networking.",
+      sections: [
+        {
+          eyebrow: "What Happens",
+          title: "A Corporate Cooking Event That Brings People Together",
+          text: "At Haralds Kochschule, your corporate event becomes more than a standard dinner or meeting. Guests cook together in a professional kitchen, prepare a shared menu under guidance, enjoy the meal in a relaxed dining atmosphere and connect through a culinary experience. The format is ideal for companies looking for a team building event, business cooking experience, networking evening or company celebration in central Munich.",
+        },
+        {
+          eyebrow: "Suitable For",
+          title: "Suitable For",
+          list: [
+            "Team building events",
+            "Corporate celebrations",
+            "Christmas parties",
+            "Client evenings",
+            "Business cooking events",
+            "Networking events",
+            "Workshops and seminars",
+            "Department events",
+            "Incentives and employee events",
+          ],
+        },
+        {
+          eyebrow: "Menus",
+          title: "Menu Options We Offer",
+          text: "The menu can be planned individually according to your group, occasion and preferences. Depending on the event format, guests can cook together actively or enjoy selected live-cooking elements.",
+          list: [
+            "Mediterranean menus",
+            "French-inspired cuisine",
+            "Regional specialities",
+            "Creative fusion menus",
+            "Seasonal menus",
+            "Fish, meat and sauce-focused menus",
+            "Vegetarian options on request",
+            "Live-cooking or shared cooking format",
+          ],
+        },
+        {
+          eyebrow: "Pricing",
+          title: "Pricing & Event Planning",
+          text: "Pricing depends on the number of guests, menu selection, event duration, drinks, service requirements and whether the event is planned as a cooking event, seated dinner, mixed format or location rental. For this reason, every corporate event is quoted individually.",
+          list: [
+            "Transparent pricing after inquiry",
+            "Individual offer based on guest count and menu",
+            "Optional drinks and service planning",
+            "Flexible formats for companies and teams",
+            "Personal consultation before final booking",
+          ],
+        },
+      ],
+    },
+    de: {
+      title: "Firmenevents & Teambuilding Kochevents in München",
+      subtitle:
+        "Planen Sie ein besonderes Firmenevent oder Teambuilding Kochevent in München — ideal für Firmenfeiern, Weihnachtsfeiern, Kundenevents, Workshops und Business Networking.",
+      sections: [
+        {
+          eyebrow: "Ablauf",
+          title: "Ein Firmenevent, das Menschen zusammenbringt",
+          text: "Bei Haralds Kochschule wird Ihr Firmenevent mehr als ein klassisches Abendessen oder Meeting. Ihre Gäste kochen gemeinsam in einer professionellen Küche, bereiten unter Anleitung ein Menü zu, genießen anschließend das Essen in entspannter Atmosphäre und kommen durch das gemeinsame Erlebnis miteinander ins Gespräch. Das Format eignet sich ideal für Teambuilding, Business Cooking, Networking Events, Weihnachtsfeiern und Firmenveranstaltungen in zentraler Lage in München.",
+        },
+        {
+          eyebrow: "Geeignet für",
+          title: "Geeignet für",
+          list: [
+            "Teambuilding Events",
+            "Firmenevents und Firmenfeiern",
+            "Weihnachtsfeiern",
+            "Kundenevents",
+            "Business Cooking",
+            "Networking Events",
+            "Workshops und Seminare",
+            "Abteilungsevents",
+            "Incentives und Mitarbeiterevents",
+          ],
+        },
+        {
+          eyebrow: "Menüs",
+          title: "Menüs, die wir anbieten",
+          text: "Das Menü wird individuell nach Gruppe, Anlass und Wünschen geplant. Je nach Veranstaltungsformat können die Gäste aktiv gemeinsam kochen oder ausgewählte Live-Cooking-Elemente genießen.",
+          list: [
+            "Mediterrane Menüs",
+            "Französisch inspirierte Küche",
+            "Regionale Spezialitäten",
+            "Kreative Fusion-Konzepte",
+            "Saisonale Menüs",
+            "Fisch-, Fleisch- und Saucen-Schwerpunkte",
+            "Vegetarische Optionen auf Anfrage",
+            "Live-Cooking oder gemeinsames Kochformat",
+          ],
+        },
+        {
+          eyebrow: "Preise",
+          title: "Preise & individuelle Planung",
+          text: "Die Preise hängen von Gästeanzahl, Menüauswahl, Dauer der Veranstaltung, Getränken, Serviceumfang und dem gewünschten Format ab — zum Beispiel Kochevent, gesetztes Dinner, Mixed-Event oder Locationmiete. Deshalb wird jedes Firmenevent individuell kalkuliert.",
+          list: [
+            "Transparente Preise nach Anfrage",
+            "Individuelles Angebot nach Gästeanzahl und Menü",
+            "Optionale Getränke- und Serviceplanung",
+            "Flexible Formate für Firmen und Teams",
+            "Persönliche Beratung vor der finalen Buchung",
+          ],
+        },
+      ],
+    },
+  },
+
+  {
+    slug: "/corporate-events/business-cooking",
+    group: "corporate",
+    en: {
+      title: "Business Cooking Events in Munich",
+      subtitle:
+        "A premium business cooking experience in Munich for client evenings, networking events, management meetings, product presentations and professional gatherings.",
+      sections: [
+        {
+          eyebrow: "What Happens",
+          title: "Business Meets Culinary Experience",
+          text: "Business cooking at Haralds Kochschule combines a professional event setting with the warmth of a shared culinary experience. Your guests cook together, enjoy selected menus, network naturally and spend the evening in an exclusive cooking location in central Munich. It is ideal for companies that want a business event with more personality than a traditional restaurant dinner.",
+        },
+        {
+          eyebrow: "Suitable For",
+          title: "Suitable For",
+          list: [
+            "Client evenings",
+            "Business dinners",
+            "Networking events",
+            "Management meetings",
+            "Product presentations",
+            "Partner events",
+            "Customer hospitality",
+            "Internal company evenings",
+          ],
+        },
+        {
+          eyebrow: "Menus",
+          title: "Menu Options We Offer",
+          text: "The menu can be matched to the business occasion, season and guest profile. Haralds Kochschule can support relaxed cooking formats, live-cooking moments or elegant seated dining.",
+          list: [
+            "Mediterranean business menus",
+            "French-inspired menus",
+            "Fusion cuisine",
+            "Regional specialities",
+            "Seasonal courses",
+            "Live-cooking elements",
+            "Wine and drinks planning on request",
+            "Vegetarian options on request",
+          ],
+        },
+        {
+          eyebrow: "Pricing",
+          title: "Pricing & Business Event Offers",
+          text: "Every business cooking event is planned individually. Pricing depends on guest count, selected menu, drinks, event duration, service level and whether the event is focused on active cooking, networking or seated dining.",
+          list: [
+            "Individual quotation after inquiry",
+            "Pricing based on guest number and menu",
+            "Optional drinks and service packages",
+            "Flexible format for business guests",
+            "Clear offer before confirmation",
+          ],
+        },
+      ],
+    },
+    de: {
+      title: "Business Cooking Events in München",
+      subtitle:
+        "Ein hochwertiges Business Cooking Erlebnis in München für Kundenevents, Networking-Abende, Management-Meetings, Produktpräsentationen und professionelle Veranstaltungen.",
+      sections: [
+        {
+          eyebrow: "Ablauf",
+          title: "Business trifft kulinarisches Erlebnis",
+          text: "Business Cooking bei Haralds Kochschule verbindet einen professionellen Veranstaltungsrahmen mit der warmen Atmosphäre eines gemeinsamen kulinarischen Erlebnisses. Ihre Gäste kochen gemeinsam, genießen ausgewählte Menüs, vernetzen sich auf natürliche Weise und verbringen den Abend in einer exklusiven Kochlocation im Zentrum von München. Ideal für Unternehmen, die ein Business Event mit mehr Persönlichkeit als ein klassisches Restaurant-Dinner suchen.",
+        },
+        {
+          eyebrow: "Geeignet für",
+          title: "Geeignet für",
+          list: [
+            "Kundenevents",
+            "Business Dinner",
+            "Networking Events",
+            "Management-Meetings",
+            "Produktpräsentationen",
+            "Partnerveranstaltungen",
+            "Kundenbetreuung",
+            "Interne Firmenabende",
+          ],
+        },
+        {
+          eyebrow: "Menüs",
+          title: "Menüs, die wir anbieten",
+          text: "Das Menü kann passend zum geschäftlichen Anlass, zur Saison und zum Gästeprofil geplant werden. Haralds Kochschule bietet entspannte Kochformate, Live-Cooking-Momente oder elegante Dinner-Settings.",
+          list: [
+            "Mediterrane Business-Menüs",
+            "Französisch inspirierte Menüs",
+            "Fusionsküche",
+            "Regionale Spezialitäten",
+            "Saisonale Gänge",
+            "Live-Cooking-Elemente",
+            "Wein- und Getränkeplanung auf Anfrage",
+            "Vegetarische Optionen auf Anfrage",
+          ],
+        },
+        {
+          eyebrow: "Preise",
+          title: "Preise & Business Event Angebote",
+          text: "Jedes Business Cooking Event wird individuell geplant. Die Preise hängen von Gästeanzahl, Menüauswahl, Getränken, Dauer, Serviceumfang und dem gewünschten Schwerpunkt ab — aktives Kochen, Networking oder gesetztes Dinner.",
+          list: [
+            "Individuelles Angebot nach Anfrage",
+            "Preis abhängig von Gästeanzahl und Menü",
+            "Optionale Getränke- und Servicepakete",
+            "Flexibles Format für Business-Gäste",
+            "Klares Angebot vor Buchungsbestätigung",
+          ],
+        },
+      ],
+    },
+  },
+
+  {
+    slug: "/corporate-events/company-events",
+    group: "corporate",
+    en: {
+      title: "Company Celebrations & Christmas Parties in Munich",
+      subtitle:
+        "Celebrate company milestones, Christmas parties, summer events and internal gatherings in a central cooking event location in Munich.",
+      sections: [
+        {
+          eyebrow: "What Happens",
+          title: "Celebrate Your Company Event Differently",
+          text: "Haralds Kochschule turns company celebrations into shared experiences. Instead of only sitting at a table, guests can cook together, enjoy live-cooking moments, dine in a stylish lounge and celebrate in a warm private atmosphere. The location is suitable for Christmas parties, anniversaries, department celebrations and corporate evenings in Munich.",
+        },
+        {
+          eyebrow: "Suitable For",
+          title: "Suitable For",
+          list: [
+            "Christmas parties",
+            "Company anniversaries",
+            "Summer events",
+            "Department celebrations",
+            "Employee appreciation events",
+            "Client evenings",
+            "Internal networking events",
+            "Team dinners",
+          ],
+        },
+        {
+          eyebrow: "Menus",
+          title: "Menu Options We Offer",
+          text: "Menus can be designed according to the season and celebration style. For Christmas parties, festive menus can be planned; for summer events, lighter Mediterranean or regional menus are possible.",
+          list: [
+            "Festive seasonal menus",
+            "Mediterranean menus",
+            "Regional specialities",
+            "Creative fusion concepts",
+            "Shared cooking menus",
+            "Seated dinner menus",
+            "Live-cooking moments",
+            "Vegetarian options on request",
+          ],
+        },
+        {
+          eyebrow: "Pricing",
+          title: "Pricing for Company Celebrations",
+          text: "Pricing depends on the number of guests, menu concept, drinks, event duration and the level of service required. Haralds Kochschule prepares an individual offer based on your company event requirements.",
+          list: [
+            "Individual pricing after inquiry",
+            "Offers for small and larger company groups",
+            "Menu and drinks planning available",
+            "Flexible event format",
+            "Transparent proposal before booking",
+          ],
+        },
+      ],
+    },
+    de: {
+      title: "Firmenfeiern & Weihnachtsfeiern in München",
+      subtitle:
+        "Feiern Sie Firmenjubiläen, Weihnachtsfeiern, Sommerfeste und interne Veranstaltungen in einer zentralen Kochevent-Location in München.",
+      sections: [
+        {
+          eyebrow: "Ablauf",
+          title: "Firmenfeiern anders erleben",
+          text: "Haralds Kochschule macht aus Firmenfeiern gemeinsame Erlebnisse. Statt nur am Tisch zu sitzen, können Gäste gemeinsam kochen, Live-Cooking erleben, in einer stilvollen Lounge genießen und in warmer privater Atmosphäre feiern. Die Location eignet sich für Weihnachtsfeiern, Jubiläen, Abteilungsfeiern und Firmenabende in München.",
+        },
+        {
+          eyebrow: "Geeignet für",
+          title: "Geeignet für",
+          list: [
+            "Weihnachtsfeiern",
+            "Firmenjubiläen",
+            "Sommerfeste",
+            "Abteilungsfeiern",
+            "Mitarbeiterevents",
+            "Kundenabende",
+            "Interne Networking Events",
+            "Team-Dinner",
+          ],
+        },
+        {
+          eyebrow: "Menüs",
+          title: "Menüs, die wir anbieten",
+          text: "Die Menüs können passend zur Saison und zum Charakter der Feier gestaltet werden. Für Weihnachtsfeiern sind festliche Menüs möglich, für Sommerfeste leichtere mediterrane oder regionale Konzepte.",
+          list: [
+            "Festliche saisonale Menüs",
+            "Mediterrane Menüs",
+            "Regionale Spezialitäten",
+            "Kreative Fusion-Konzepte",
+            "Gemeinsame Kochmenüs",
+            "Gesetzte Dinner-Menüs",
+            "Live-Cooking-Momente",
+            "Vegetarische Optionen auf Anfrage",
+          ],
+        },
+        {
+          eyebrow: "Preise",
+          title: "Preise für Firmenfeiern",
+          text: "Die Preise richten sich nach Gästeanzahl, Menükonzept, Getränken, Dauer und gewünschtem Serviceumfang. Haralds Kochschule erstellt ein individuelles Angebot passend zu Ihrer Firmenveranstaltung.",
+          list: [
+            "Individuelle Preise nach Anfrage",
+            "Angebote für kleine und größere Firmengruppen",
+            "Menü- und Getränkeplanung möglich",
+            "Flexibles Veranstaltungsformat",
+            "Transparentes Angebot vor Buchung",
+          ],
+        },
+      ],
+    },
+  },
+
+  {
+    slug: "/corporate-events/kitchen-rental",
+    group: "corporate",
+    en: {
+      title: "Event Location with Kitchen for Rent in Munich",
+      subtitle:
+        "Rent a modern cooking location in Munich for workshops, seminars, meetings, productions, presentations, live cooking and private or corporate events.",
+      sections: [
+        {
+          eyebrow: "What Happens",
+          title: "A Flexible Event Space with a Fully Equipped Kitchen",
+          text: "Haralds Kochschule can be rented as an event location with kitchen in central Munich. The space is suitable for formats that need a professional kitchen, open event area, dining lounge or creative workshop environment. Depending on the setup, guests can use the open-kitchen area, enjoy a seated event in the dining lounge or combine both formats.",
+        },
+        {
+          eyebrow: "Suitable For",
+          title: "Suitable For",
+          list: [
+            "Workshops",
+            "Seminars",
+            "Meetings",
+            "Conferences",
+            "Product presentations",
+            "Photo and video productions",
+            "Live-cooking formats",
+            "Private events",
+            "Corporate events",
+          ],
+        },
+        {
+          eyebrow: "Menus",
+          title: "Food & Menu Options",
+          text: "If required, the rental can be combined with culinary support, menu planning, live-cooking elements or catering-style service. The location can also support events where the kitchen is used as part of the concept.",
+          list: [
+            "Optional menu planning",
+            "Live-cooking on request",
+            "Mediterranean and regional options",
+            "Finger food or seated dinner concepts",
+            "Coffee, drinks and reception planning",
+            "Flexible kitchen-based event formats",
+          ],
+        },
+        {
+          eyebrow: "Pricing",
+          title: "Rental Pricing",
+          text: "Rental pricing depends on event duration, day and time, number of guests, kitchen usage, service requirements and additional culinary support. An individual offer is created after your inquiry.",
+          list: [
+            "Individual rental offer",
+            "Pricing based on duration and usage",
+            "Optional service and food planning",
+            "Flexible setup options",
+            "Clear agreement before booking",
+          ],
+        },
+      ],
+    },
+    de: {
+      title: "Eventlocation mit Küche in München mieten",
+      subtitle:
+        "Mieten Sie eine moderne Kochlocation in München für Workshops, Seminare, Meetings, Produktionen, Präsentationen, Live-Cooking sowie private oder geschäftliche Events.",
+      sections: [
+        {
+          eyebrow: "Ablauf",
+          title: "Ein flexibler Eventraum mit voll ausgestatteter Küche",
+          text: "Haralds Kochschule kann als Eventlocation mit Küche in zentraler Lage in München gemietet werden. Die Räume eignen sich für Formate, die eine professionelle Küche, einen offenen Eventbereich, eine Esszimmer-Lounge oder eine kreative Workshop-Umgebung benötigen. Je nach Setup können Gäste den Open-Kitchen-Bereich nutzen, eine gesetzte Veranstaltung in der Lounge genießen oder beide Formate kombinieren.",
+        },
+        {
+          eyebrow: "Geeignet für",
+          title: "Geeignet für",
+          list: [
+            "Workshops",
+            "Seminare",
+            "Meetings",
+            "Tagungen",
+            "Produktpräsentationen",
+            "Foto- und Videoproduktionen",
+            "Live-Cooking-Formate",
+            "Private Events",
+            "Firmenevents",
+          ],
+        },
+        {
+          eyebrow: "Menüs",
+          title: "Food- & Menüoptionen",
+          text: "Auf Wunsch kann die Locationmiete mit kulinarischer Unterstützung, Menüplanung, Live-Cooking-Elementen oder Service kombiniert werden. Die Küche kann auch aktiv Teil des Veranstaltungskonzepts sein.",
+          list: [
+            "Optionale Menüplanung",
+            "Live-Cooking auf Anfrage",
+            "Mediterrane und regionale Optionen",
+            "Fingerfood oder gesetzte Dinner-Konzepte",
+            "Kaffee-, Getränke- und Empfangsplanung",
+            "Flexible Küchen-Eventformate",
+          ],
+        },
+        {
+          eyebrow: "Preise",
+          title: "Preise für Locationmiete",
+          text: "Die Preise für die Miete hängen von Dauer, Tag und Uhrzeit, Gästeanzahl, Küchennutzung, Serviceumfang und zusätzlicher kulinarischer Unterstützung ab. Nach Ihrer Anfrage wird ein individuelles Angebot erstellt.",
+          list: [
+            "Individuelles Mietangebot",
+            "Preis abhängig von Dauer und Nutzung",
+            "Optionale Service- und Foodplanung",
+            "Flexible Setup-Möglichkeiten",
+            "Klare Abstimmung vor Buchung",
+          ],
+        },
+      ],
+    },
+  },
+
+{
+  slug: "/private-events/social-cooking-events",
+  group: "private",
+  en: {
+    title: "Social Cooking Events in Munich",
+    subtitle:
+      "Join themed cooking evenings in Munich for couples, friends, singles and small groups — cook together, enjoy a shared meal and meet new people in a warm culinary atmosphere.",
+    sections: [
+      {
+        eyebrow: "What Happens",
+        title: "Cook, Dine and Connect",
+        text: "Social Cooking Events at Haralds Kochschule are organized culinary evenings where guests come together for a shared cooking experience. Individuals, couples, friends or small groups can join a themed event, prepare a menu together, enjoy the meal afterwards and spend a memorable evening in a relaxed social atmosphere. These events are ideal for occasions such as Valentine’s Day, singles evenings, friends’ nights, networking dinners or seasonal culinary gatherings in Munich.",
+      },
+      {
+        eyebrow: "Suitable For",
+        title: "Suitable For",
+        list: [
+          "Couples’ evenings",
+          "Valentine’s Day events",
+          "Singles cooking nights",
+          "Friends’ evenings",
+          "Social networking events",
+          "Seasonal cooking evenings",
+          "Small groups joining public events",
+          "People who want to meet new friends",
+          "Themed culinary nights",
+        ],
+      },
+      {
+        eyebrow: "Menus",
+        title: "Menu Options We Offer",
+        text: "Menus can be designed around the theme of the evening. Depending on the occasion, the event can be romantic, relaxed, social, seasonal or focused on a specific cuisine.",
+        list: [
+          "Valentine’s Day menus",
+          "Mediterranean shared menus",
+          "French-inspired evenings",
+          "Seasonal menus",
+          "Regional specialities",
+          "Creative fusion menus",
+          "Wine and dinner concepts on request",
+          "Vegetarian options on request",
+        ],
+      },
+      {
+        eyebrow: "Pricing",
+        title: "Pricing & Participation",
+        text: "Pricing depends on the event theme, menu, drinks, duration and number of participants. Social Cooking Events can be offered as public ticketed evenings or as privately organized themed events for groups.",
+        list: [
+          "Price per person depending on event concept",
+          "Public event or private group format possible",
+          "Menu and drinks planning available",
+          "Ideal for themed evenings and special occasions",
+          "Individual planning for custom social events",
+        ],
+      },
+    ],
+  },
+  de: {
+    title: "Social Cooking Events in München",
+    subtitle:
+      "Gemeinsame Kochevents in München für Paare, Freunde, Singles und kleine Gruppen — zusammen kochen, gemeinsam essen und neue Menschen in entspannter Atmosphäre kennenlernen.",
+    sections: [
+      {
+        eyebrow: "Ablauf",
+        title: "Kochen, genießen und Menschen kennenlernen",
+        text: "Social Cooking Events bei Haralds Kochschule sind organisierte kulinarische Abende, bei denen Gäste zu einem gemeinsamen Kocherlebnis zusammenkommen. Einzelpersonen, Paare, Freunde oder kleine Gruppen können an einem thematischen Event teilnehmen, gemeinsam ein Menü zubereiten, anschließend zusammen essen und einen besonderen Abend in entspannter Atmosphäre erleben. Ideal für Anlässe wie Valentinstag, Singles-Abende, Freundesabende, Networking-Dinner oder saisonale Kochevents in München.",
+      },
+      {
+        eyebrow: "Geeignet für",
+        title: "Geeignet für",
+        list: [
+          "Abende für Paare",
+          "Valentinstags-Events",
+          "Singles-Kochabende",
+          "Abende mit Freunden",
+          "Social Networking Events",
+          "Saisonale Kochevents",
+          "Kleine Gruppen bei offenen Events",
+          "Menschen, die neue Kontakte knüpfen möchten",
+          "Thematische kulinarische Abende",
+        ],
+      },
+      {
+        eyebrow: "Menüs",
+        title: "Menüs, die wir anbieten",
+        text: "Die Menüs können passend zum Thema des Abends gestaltet werden. Je nach Anlass kann das Event romantisch, locker, kommunikativ, saisonal oder auf eine bestimmte Küche ausgerichtet sein.",
+        list: [
+          "Valentinstags-Menüs",
+          "Mediterrane Sharing-Menüs",
+          "Französisch inspirierte Abende",
+          "Saisonale Menüs",
+          "Regionale Spezialitäten",
+          "Kreative Fusion-Menüs",
+          "Wein- und Dinner-Konzepte auf Anfrage",
+          "Vegetarische Optionen auf Anfrage",
+        ],
+      },
+      {
+        eyebrow: "Preise",
+        title: "Preise & Teilnahme",
+        text: "Die Preise hängen von Eventthema, Menü, Getränken, Dauer und Teilnehmerzahl ab. Social Cooking Events können als offene Abende mit Teilnahmeplätzen oder als privat organisiertes Themen-Event für Gruppen angeboten werden.",
+        list: [
+          "Preis pro Person je nach Eventkonzept",
+          "Offenes Event oder privates Gruppenformat möglich",
+          "Menü- und Getränkeplanung verfügbar",
+          "Ideal für Themenabende und besondere Anlässe",
+          "Individuelle Planung für eigene Social Events",
+        ],
+      },
+    ],
+  },
+},
+  {
+    slug: "/private-events/cooking-classes",
+    group: "private",
+    en: {
+      title: "Cooking Classes in Munich",
+      subtitle:
+        "Discover Mediterranean, French, regional and seasonal cooking classes in Munich in a professional yet relaxed cooking school atmosphere.",
+      sections: [
+        {
+          eyebrow: "What Happens",
+          title: "Learn, Cook and Enjoy",
+          text: "Cooking classes at Haralds Kochschule are designed for guests who want to discover new recipes, improve techniques and enjoy a shared culinary experience. The classes take place in a professional cooking studio and focus on practical learning, inspiration and enjoyment.",
+        },
+        {
+          eyebrow: "Suitable For",
+          title: "Suitable For",
+          list: [
+            "Beginners",
+            "Food lovers",
+            "Couples",
+            "Small groups",
+            "Friends",
+            "Private groups",
+            "Teams looking for a relaxed cooking experience",
+            "Anyone interested in learning new techniques",
+          ],
+        },
+        {
+          eyebrow: "Menus",
+          title: "Course Topics & Menus",
+          text: "The cooking class themes can change regularly and may include Mediterranean, French, regional and seasonal focuses.",
+          list: [
+            "Mediterranean cooking classes",
+            "French cooking classes",
+            "Regional specialities",
+            "Seasonal dishes",
+            "Fish courses",
+            "Meat courses",
+            "Sauce courses",
+            "Creative culinary themes",
+          ],
+        },
+        {
+          eyebrow: "Pricing",
+          title: "Pricing & Registration",
+          text: "Pricing depends on the course topic, duration, ingredients and group size. For current dates and available cooking classes, guests can send an inquiry or request more information.",
+          list: [
+            "Pricing based on course type",
+            "Current dates on request",
+            "Private group classes possible",
+            "Ingredients and course concept included depending on offer",
+            "Inquiry required for availability",
+          ],
+        },
+      ],
+    },
+    de: {
+      title: "Kochkurse in München",
+      subtitle:
+        "Entdecken Sie mediterrane, französische, regionale und saisonale Kochkurse in München in einer professionellen und entspannten Kochschul-Atmosphäre.",
+      sections: [
+        {
+          eyebrow: "Ablauf",
+          title: "Lernen, kochen und genießen",
+          text: "Kochkurse bei Haralds Kochschule sind für Gäste gedacht, die neue Rezepte entdecken, Techniken verbessern und ein gemeinsames kulinarisches Erlebnis genießen möchten. Die Kurse finden in einem professionellen Kochstudio statt und verbinden praktisches Lernen, Inspiration und Genuss.",
+        },
+        {
+          eyebrow: "Geeignet für",
+          title: "Geeignet für",
+          list: [
+            "Einsteiger",
+            "Genießer",
+            "Paare",
+            "Kleine Gruppen",
+            "Freunde",
+            "Private Gruppen",
+            "Teams mit Wunsch nach entspanntem Kocherlebnis",
+            "Alle, die neue Techniken lernen möchten",
+          ],
+        },
+        {
+          eyebrow: "Menüs",
+          title: "Kursthemen & Menüs",
+          text: "Die Themen der Kochkurse können regelmäßig wechseln und mediterrane, französische, regionale oder saisonale Schwerpunkte enthalten.",
+          list: [
+            "Mediterrane Kochkurse",
+            "Französische Kochkurse",
+            "Regionale Spezialitäten",
+            "Saisonale Gerichte",
+            "Fischkurse",
+            "Fleischkurse",
+            "Saucenkurse",
+            "Kreative kulinarische Themen",
+          ],
+        },
+        {
+          eyebrow: "Preise",
+          title: "Preise & Anmeldung",
+          text: "Die Preise hängen von Kursthema, Dauer, Zutaten und Gruppengröße ab. Für aktuelle Termine und verfügbare Kochkurse können Gäste eine Anfrage senden oder weitere Informationen anfordern.",
+          list: [
+            "Preis abhängig vom Kurstyp",
+            "Aktuelle Termine auf Anfrage",
+            "Private Gruppenkurse möglich",
+            "Zutaten und Kurskonzept je nach Angebot enthalten",
+            "Anfrage für Verfügbarkeit erforderlich",
+          ],
+        },
+      ],
+    },
+  },
+
+  {
+    slug: "/locations/cooking-gallery-lounge",
+    group: "locations",
+    en: {
+      title: "Cooking Gallery & Lounge in Munich",
+      subtitle:
+        "A professional cooking gallery with a stylish dining lounge for corporate events, private celebrations, workshops, live cooking and culinary experiences.",
+      sections: [
+        {
+          eyebrow: "What Happens",
+          title: "Professional Kitchen, Private Lounge Atmosphere",
+          text: "The cooking gallery and lounge at Haralds Kochschule offer a flexible setting for cooking events, dining formats and private or corporate gatherings. Guests can cook in a professional kitchen environment and then enjoy the meal in a comfortable lounge atmosphere.",
+        },
+        {
+          eyebrow: "Suitable For",
+          title: "Suitable For",
+          list: [
+            "Corporate cooking events",
+            "Team events",
+            "Private celebrations",
+            "Workshops",
+            "Dinner events",
+            "Networking evenings",
+            "Live-cooking formats",
+            "Photo and video productions",
+          ],
+        },
+        {
+          eyebrow: "Menus",
+          title: "Food & Event Options",
+          text: "The cooking gallery can support interactive cooking menus, seated dinners, live-cooking moments and flexible event formats depending on your occasion.",
+          list: [
+            "Shared cooking menus",
+            "Seated dinner menus",
+            "Live-cooking concepts",
+            "Mediterranean cuisine",
+            "Regional specialities",
+            "Seasonal menus",
+            "Private event menus",
+            "Business event menus",
+          ],
+        },
+        {
+          eyebrow: "Pricing",
+          title: "Pricing for the Location",
+          text: "Pricing depends on the event format, duration, number of guests, menu, drinks and required service. A tailored offer is prepared after your inquiry.",
+          list: [
+            "Individual offer after inquiry",
+            "Pricing based on format and duration",
+            "Food and service planning available",
+            "Flexible use of kitchen and lounge",
+            "Transparent planning before booking",
+          ],
+        },
+      ],
+    },
+    de: {
+      title: "Kochgalerie & Lounge in München",
+      subtitle:
+        "Eine professionelle Kochgalerie mit stilvoller Esszimmer-Lounge für Firmenevents, private Feiern, Workshops, Live-Cooking und kulinarische Erlebnisse.",
+      sections: [
+        {
+          eyebrow: "Ablauf",
+          title: "Professionelle Küche, private Lounge-Atmosphäre",
+          text: "Die Kochgalerie und Lounge von Haralds Kochschule bieten einen flexiblen Rahmen für Kochevents, Dinner-Formate sowie private oder geschäftliche Veranstaltungen. Gäste können in einer professionellen Küchenumgebung kochen und das Menü anschließend in angenehmer Lounge-Atmosphäre genießen.",
+        },
+        {
+          eyebrow: "Geeignet für",
+          title: "Geeignet für",
+          list: [
+            "Corporate Cooking Events",
+            "Teamevents",
+            "Private Feiern",
+            "Workshops",
+            "Dinner-Events",
+            "Networking-Abende",
+            "Live-Cooking-Formate",
+            "Foto- und Videoproduktionen",
+          ],
+        },
+        {
+          eyebrow: "Menüs",
+          title: "Food- & Eventoptionen",
+          text: "Die Kochgalerie eignet sich für interaktive Kochmenüs, gesetzte Dinner, Live-Cooking-Momente und flexible Veranstaltungsformate je nach Anlass.",
+          list: [
+            "Gemeinsame Kochmenüs",
+            "Gesetzte Dinner-Menüs",
+            "Live-Cooking-Konzepte",
+            "Mediterrane Küche",
+            "Regionale Spezialitäten",
+            "Saisonale Menüs",
+            "Menüs für private Events",
+            "Menüs für Business Events",
+          ],
+        },
+        {
+          eyebrow: "Preise",
+          title: "Preise für die Location",
+          text: "Die Preise hängen von Eventformat, Dauer, Gästeanzahl, Menü, Getränken und benötigtem Service ab. Nach Ihrer Anfrage wird ein passendes Angebot erstellt.",
+          list: [
+            "Individuelles Angebot nach Anfrage",
+            "Preis abhängig von Format und Dauer",
+            "Food- und Serviceplanung möglich",
+            "Flexible Nutzung von Küche und Lounge",
+            "Transparente Planung vor Buchung",
+          ],
+        },
+      ],
+    },
+  },
+
+  {
+    slug: "/locations/lounge",
+    group: "locations",
+    en: {
+      title: "Private Dining Lounge in Munich",
+      subtitle:
+        "A stylish lounge for dinner events, networking evenings, client hospitality, receptions and private gatherings in central Munich.",
+      sections: [
+        {
+          eyebrow: "What Happens",
+          title: "A Warm Space for Dining and Connection",
+          text: "The lounge at Haralds Kochschule creates a refined atmosphere for dining, networking and private gatherings. It can be used after a cooking event, as a seated dinner space or as a stylish setting for smaller business and private occasions.",
+        },
+        {
+          eyebrow: "Suitable For",
+          title: "Suitable For",
+          list: [
+            "Private dinners",
+            "Networking evenings",
+            "Client hospitality",
+            "Small meetings",
+            "Private receptions",
+            "Post-cooking dining",
+            "Business dinners",
+            "Celebration dinners",
+          ],
+        },
+        {
+          eyebrow: "Menus",
+          title: "Menu & Service Options",
+          text: "Depending on the event, the lounge can be combined with selected menus, drinks planning, live-cooking elements or a more classic seated dinner format.",
+          list: [
+            "Seated dinner menus",
+            "Reception formats",
+            "Mediterranean cuisine",
+            "French-inspired menus",
+            "Regional specialities",
+            "Wine and drinks planning",
+            "Live-cooking on request",
+            "Private dining concepts",
+          ],
+        },
+        {
+          eyebrow: "Pricing",
+          title: "Pricing for Lounge Events",
+          text: "Pricing depends on number of guests, duration, menu, drinks and service needs. A tailored proposal is prepared after your inquiry.",
+          list: [
+            "Individual pricing after inquiry",
+            "Offer based on guest count and duration",
+            "Optional food and drinks planning",
+            "Flexible lounge formats",
+            "Personal consultation before booking",
+          ],
+        },
+      ],
+    },
+    de: {
+      title: "Esszimmer-Lounge in München",
+      subtitle:
+        "Eine stilvolle Lounge für Dinner-Events, Networking-Abende, Kundenveranstaltungen, Empfänge und private Feiern in zentraler Lage in München.",
+      sections: [
+        {
+          eyebrow: "Ablauf",
+          title: "Ein warmer Raum für Genuss und Begegnung",
+          text: "Die Lounge von Haralds Kochschule schafft eine stilvolle Atmosphäre für Dinner, Networking und private Zusammenkünfte. Sie kann nach einem Kochevent, als gesetzter Dinnerbereich oder als besonderer Rahmen für kleinere geschäftliche und private Anlässe genutzt werden.",
+        },
+        {
+          eyebrow: "Geeignet für",
+          title: "Geeignet für",
+          list: [
+            "Private Dinner",
+            "Networking-Abende",
+            "Kundenveranstaltungen",
+            "Kleine Meetings",
+            "Private Empfänge",
+            "Dinner nach Kochevents",
+            "Business Dinner",
+            "Feierliche Abendessen",
+          ],
+        },
+        {
+          eyebrow: "Menüs",
+          title: "Menü- & Serviceoptionen",
+          text: "Je nach Event kann die Lounge mit ausgewählten Menüs, Getränkeplanung, Live-Cooking-Elementen oder einem klassischen gesetzten Dinnerformat kombiniert werden.",
+          list: [
+            "Gesetzte Dinner-Menüs",
+            "Empfangsformate",
+            "Mediterrane Küche",
+            "Französisch inspirierte Menüs",
+            "Regionale Spezialitäten",
+            "Wein- und Getränkeplanung",
+            "Live-Cooking auf Anfrage",
+            "Private-Dining-Konzepte",
+          ],
+        },
+        {
+          eyebrow: "Preise",
+          title: "Preise für Lounge-Events",
+          text: "Die Preise hängen von Gästeanzahl, Dauer, Menü, Getränken und Servicebedarf ab. Nach Ihrer Anfrage wird ein individuelles Angebot erstellt.",
+          list: [
+            "Individuelle Preise nach Anfrage",
+            "Angebot nach Gästeanzahl und Dauer",
+            "Optionale Food- und Getränkeplanung",
+            "Flexible Lounge-Formate",
+            "Persönliche Beratung vor Buchung",
+          ],
+        },
+      ],
+    },
+  },
+
+  {
+  slug: "/private-events/private-celebrations",
+  group: "private",
+  en: {
+    title: "Private Celebrations & Event Location in Munich",
+    subtitle:
+      "Celebrate birthdays, anniversaries, family gatherings, receptions and private dinners in a stylish cooking school and event location in central Munich.",
+    sections: [
+      {
+        eyebrow: "What Happens",
+        title: "A Private Event Location with Culinary Character",
+        text: "Haralds Kochschule offers a warm and stylish setting for private celebrations in Munich. Whether you are planning a birthday, anniversary, family celebration or private dinner, the location combines a professional kitchen, dining lounge and relaxed event atmosphere. Your event can be designed as a seated dinner, mixed reception or culinary experience with optional cooking elements.",
+      },
+      {
+        eyebrow: "Suitable For",
+        title: "Suitable For",
+        list: [
+          "Birthdays",
+          "Anniversaries",
+          "Family celebrations",
+          "Private dinners",
+          "Receptions",
+          "Friends’ gatherings",
+          "Small private events",
+          "Special occasions",
+        ],
+      },
+      {
+        eyebrow: "Menus",
+        title: "Menu Options We Offer",
+        text: "Menus are planned according to your occasion, guest preferences and desired atmosphere. The format can be elegant and seated, relaxed and social, or combined with live-cooking or interactive cooking moments.",
+        list: [
+          "Mediterranean menus",
+          "French-inspired cuisine",
+          "Regional specialities",
+          "Seasonal menus",
+          "Celebration menus",
+          "Seated dinner concepts",
+          "Live-cooking on request",
+          "Vegetarian options on request",
+        ],
+      },
+      {
+        eyebrow: "Pricing",
+        title: "Pricing for Private Celebrations",
+        text: "Pricing depends on the number of guests, menu selection, drinks, event duration, service requirements and room setup. Every private celebration is quoted individually after your inquiry.",
+        list: [
+          "Individual offer after inquiry",
+          "Pricing based on guests and menu",
+          "Optional drinks and service planning",
+          "Flexible formats for private groups",
+          "Personal planning before booking",
+        ],
+      },
+    ],
+  },
+  de: {
+    title: "Private Feiern & Eventlocation in München",
+    subtitle:
+      "Feiern Sie Geburtstage, Jubiläen, Familienfeiern, Empfänge und private Dinner in einer stilvollen Kochschule und Eventlocation im Zentrum von München.",
+    sections: [
+      {
+        eyebrow: "Ablauf",
+        title: "Eine private Eventlocation mit kulinarischem Charakter",
+        text: "Haralds Kochschule bietet einen warmen und stilvollen Rahmen für private Feiern in München. Ob Geburtstag, Jubiläum, Familienfeier oder privates Dinner — die Location verbindet professionelle Küche, Esszimmer-Lounge und entspannte Eventatmosphäre. Ihr Event kann als gesetztes Dinner, lockerer Empfang oder kulinarisches Erlebnis mit optionalen Kochelementen gestaltet werden.",
+      },
+      {
+        eyebrow: "Geeignet für",
+        title: "Geeignet für",
+        list: [
+          "Geburtstage",
+          "Jubiläen",
+          "Familienfeiern",
+          "Private Dinner",
+          "Empfänge",
+          "Abende mit Freunden",
+          "Kleine private Events",
+          "Besondere Anlässe",
+        ],
+      },
+      {
+        eyebrow: "Menüs",
+        title: "Menüs, die wir anbieten",
+        text: "Die Menüs werden passend zu Anlass, Gästepräferenzen und gewünschter Atmosphäre geplant. Das Format kann elegant und gesetzt, locker und kommunikativ oder mit Live-Cooking beziehungsweise interaktiven Kochelementen kombiniert werden.",
+        list: [
+          "Mediterrane Menüs",
+          "Französisch inspirierte Küche",
+          "Regionale Spezialitäten",
+          "Saisonale Menüs",
+          "Feierliche Menüs",
+          "Gesetzte Dinner-Konzepte",
+          "Live-Cooking auf Anfrage",
+          "Vegetarische Optionen auf Anfrage",
+        ],
+      },
+      {
+        eyebrow: "Preise",
+        title: "Preise für private Feiern",
+        text: "Die Preise hängen von Gästeanzahl, Menüauswahl, Getränken, Veranstaltungsdauer, Serviceumfang und Raumsetup ab. Jede private Feier wird nach Ihrer Anfrage individuell kalkuliert.",
+        list: [
+          "Individuelles Angebot nach Anfrage",
+          "Preis abhängig von Gästen und Menü",
+          "Optionale Getränke- und Serviceplanung",
+          "Flexible Formate für private Gruppen",
+          "Persönliche Planung vor der Buchung",
+        ],
+      },
+    ],
+  },
+},
+];
+
