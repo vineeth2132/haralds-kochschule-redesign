@@ -1063,3 +1063,42 @@ textarea {
 .logo-koch {
   color: #d24b31;
 }
+/* Navbar alignment fix */
+.navbar {
+  height: 86px;
+  padding: 0 5%;
+  gap: 2rem;
+}
+
+.logo {
+  font-family: "Cormorant Garamond", serif;
+  font-size: clamp(1.7rem, 2.2vw, 2.25rem);
+  line-height: 1;
+  color: var(--cream);
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.logo .logo-koch {
+  color: #c98a3c !important;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: clamp(1rem, 1.6vw, 1.8rem);
+  flex: 1;
+}
+
+.nav-links a,
+.dropdown-title {
+  white-space: nowrap;
+  font-size: 0.92rem;
+}
+
+.nav-cta {
+  white-space: nowrap;
+  padding: 0.85rem 1.35rem;
+}
